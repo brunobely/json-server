@@ -1,0 +1,6 @@
+{
+    "feed": {
+        "data_unmasked": "<div>some text!</div>",
+        "data": "<div style=\"font-size:0;\">some text!</div>"
+    }
+}
